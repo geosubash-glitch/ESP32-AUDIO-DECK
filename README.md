@@ -1,5 +1,7 @@
-![IMG_20260223_141614](https://github.com/user-attachments/assets/fd115ac1-483a-47d7-8157-12c854c5a1f6)
-![IMG_20260223_234533](https://github.com/user-attachments/assets/a194c5ed-702f-4c98-89ec-c3ae5e980f00)
+
+<img width="1344" height="768" alt="Whisk_e126be4bba955889ff642c5b1e77367cdr" src="https://github.com/user-attachments/assets/998fc595-93d4-486c-8fae-7c22f51ba6c0" />
+
+<img width="1344" height="768" alt="Whisk_5f7d61608cdf3d4a9bd4aeee038e435ddr" src="https://github.com/user-attachments/assets/d89846af-86da-438d-8da9-67006435365c" />
 
 # ESP32 TACTILE AUDIO DECK
 

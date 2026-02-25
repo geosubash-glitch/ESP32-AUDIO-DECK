@@ -1,5 +1,5 @@
 
-<img width="1344" height="768" alt="Whisk_e126be4bba955889ff642c5b1e77367cdr" src="https://github.com/user-attachments/assets/998fc595-93d4-486c-8fae-7c22f51ba6c0" />
+<img width="1344" height="768" alt="Whisk_daea1c44551e25e8cdf473055c31af51dr" src="https://github.com/user-attachments/assets/f1b9a575-8dff-436e-a986-72afbd0411c1" />
 
 <img width="1344" height="768" alt="Whisk_5f7d61608cdf3d4a9bd4aeee038e435ddr" src="https://github.com/user-attachments/assets/d89846af-86da-438d-8da9-67006435365c" />
 

@@ -7,8 +7,9 @@
 
 I built this standalone digital audio player (DAP) and Bluetooth receiver because I wanted a dedicated, single-purpose gadget with actual tactile controls. No touchscreens, no bloat—just physical mechanical buttons and a raw, cassette-futurism vibe. 
 
-I specifically designed the audio pipeline to cleanly drive high-sensitivity gear like my CCA Polaris IEMs. It uses a custom DSP pipeline on a standard ESP32 to seamlessly switch between streaming Bluetooth audio and parsing local lossless WAV files from an SD card.
+I specifically designed the audio pipeline to cleanly drive high-sensitivity gear like my IEMs. It uses a custom DSP pipeline on a standard ESP32 to seamlessly switch between streaming Bluetooth audio and parsing local lossless WAV files from an SD card.
 
+Core C++ audio routing, state-machine logic, and matrix keypad debouncing algorithms were co-developed and compiled using Gemini 3.1 Pro.
 ---
 
 ## SYSTEM FEATURES

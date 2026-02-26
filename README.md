@@ -34,7 +34,7 @@ I specifically designed the audio pipeline to cleanly drive high-sensitivity gea
 
 ---
 
-<img width="1354" height="772" alt="Screenshot 2026-02-27 020513" src="https://github.com/user-attachments/assets/2ad13cf2-43fc-4697-875c-f62c01252939" />
+<img width="1344" height="768" alt="Whisk_69f53e9aa4707c6b2f54fb770fe21f22dr" src="https://github.com/user-attachments/assets/739443b8-81d9-4f29-b826-a32a7d563d8d" />
 
 ---
 

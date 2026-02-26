@@ -34,6 +34,10 @@ I specifically designed the audio pipeline to cleanly drive high-sensitivity gea
 
 ---
 
+<img width="1354" height="772" alt="Screenshot 2026-02-27 020513" src="https://github.com/user-attachments/assets/2ad13cf2-43fc-4697-875c-f62c01252939" />
+
+---
+
 ## PINOUT & WIRING DIRECTORY
 
 Figuring out the pinout without causing SPI conflicts or Guru Meditation memory crashes took some trial and error. To protect the I2S audio buffer from the matrix keypad, I mapped the OLED and SD Card modules to these specific alternative pins:
@@ -115,6 +119,9 @@ Because the Bluetooth stack and DSP libraries are massive, a standard ESP32 part
 * [ Power Architecture ] Integrate the TP4056 charging module and MT3608 boost converter to support a standalone 3.7V Li-Po battery without audio interference.
 * [ DSP Synthesizer ] Program an isolated, monophonic synthesizer mode using the ESP32 to generate raw waveforms, turning the 4x4 matrix into a playable instrument.
 * [ Hardware Enclosure ] Design and 3D-print a custom, snap-fit chassis that leans heavily into the cassette-futurism aesthetic to hide the internal PCB sandwich.
+
+---
+<img width="1920" height="1080" alt="micrographics" src="https://github.com/user-attachments/assets/cde72e48-ad13-4aa5-8933-e703e5292d72" />
 
 ---
 

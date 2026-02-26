@@ -122,7 +122,9 @@ Because the Bluetooth stack and DSP libraries are massive, a standard ESP32 part
 * [ Hardware Enclosure ] Design and 3D-print a custom, snap-fit chassis that leans heavily into the cassette-futurism aesthetic to hide the internal PCB sandwich.
 
 ---
+
 <img width="1920" height="1080" alt="micrographics" src="https://github.com/user-attachments/assets/cde72e48-ad13-4aa5-8933-e703e5292d72" />
+<img width="1609" height="1418" alt="FRR MICROGRAPHICSf" src="https://github.com/user-attachments/assets/3780be33-68f1-47fe-b1f6-34b884268fa4" />
 
 ---
 
